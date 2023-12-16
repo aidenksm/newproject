@@ -1,4 +1,4 @@
-let width = windowWidth, height = windowHeight;
+//let width = windowWidth, height = windowHeight;
 let stars = [];
 let factor = 100;
 let speedSlider;
